@@ -1,2 +1,8 @@
 # analise_lojas_rio
- Analise de Dados feita com Plotly e Pandas, de uma franquia de lojas no Rio
+ Analise de Dados de uma franquia de lojas no Rio de Janeiro
+
+ ## Ferramentas ultilizadas
+ - Plotly
+ - Pandas
+ - NumPy
+
