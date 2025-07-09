@@ -1,4 +1,4 @@
-# Análise de Vendas - Desafio: Aumento de Vendas de Bermudas
+# Análise Performance de Vendas - Desafio: Aumento de Vendas
 
 ## Desafio
 
