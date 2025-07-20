@@ -1,6 +1,8 @@
 # Análise Performance de Vendas - Desafio: Aumento de Vendas
 
-## Desafio
+#### [Análise](https://github.com/guilhptg/analise_loja_bermudas/blob/main/analise_.ipynb)
+
+---
 
 A empresa vende bermudas e possui 5 lojas. O objetivo é aumentar as vendas e, para isso, foi feita uma análise a partir de uma base de dados fornecida. A tarefa é identificar estratégias baseadas nos dados que possam impulsionar as vendas.
 
